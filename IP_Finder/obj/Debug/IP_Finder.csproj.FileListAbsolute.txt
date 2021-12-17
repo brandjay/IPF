@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\bin\Debug\IP_Finder.exe.config
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\bin\Debug\IP_Finder.exe
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\bin\Debug\IP_Finder.pdb
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.Form1.resources
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.Properties.Resources.resources
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.exe
+C:\Users\User\Source\Repos\IP_Finder\IP_Finder\obj\Debug\IP_Finder.pdb
