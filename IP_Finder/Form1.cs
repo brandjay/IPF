@@ -35,7 +35,7 @@ namespace IP_Finder
                 string addrss = ip[0].ToString(); // turns the byte into a string (readable text)
                 Console.WriteLine("the IP address for the website you entered is\t " + addrss); // displays the IP address 
                 Console.ReadLine(); // allows your to read the result before closing 
-                richTextBox1.Text = ("The IP address of the site you entered is\t+ " + addrss);
+                richTextBox1.Text = ("The IP address of the site you entered is\t " + name + "\t" + addrss);
             }
             catch (Exception ex) // method to capture the exception and write it to the console if any thing was to go wrong 
             {
