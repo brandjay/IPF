@@ -26,7 +26,7 @@ namespace IP_Finder
 
         private void button_Click(object sender, EventArgs e)
         {
-            try // try and cath methods 
+            try // try and catch methods 
             {
                 
                 string name = textBox1.Text; // sets a variable to the value the user types in 
@@ -36,6 +36,11 @@ namespace IP_Finder
                 Console.WriteLine("the IP address for the website you entered is\t " + addrss); // displays the IP address 
                 Console.ReadLine(); // allows your to read the result before closing 
                 richTextBox1.Text = ("The IP address of the site you entered is\t " + name + "\t" + addrss);
+
+                System.Diagnostics.Process.Start("cmd.exe");
+                Console.WriteLine(addrss);
+                Console.ReadLine();
+                //%windir%\system32\cmd.exe
             }
             catch (Exception ex) // method to capture the exception and write it to the console if any thing was to go wrong 
             {
